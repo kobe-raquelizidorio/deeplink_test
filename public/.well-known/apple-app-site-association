@@ -1,0 +1,18 @@
+{
+    "activitycontinuation": {
+        "apps": [
+            "8K48XYHW9B.com.kobe.puket"
+        ]
+    },
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "8K48XYHW9B.com.kobe.puket",
+                "paths": [
+                    "*/p"
+                ]
+            }
+        ]
+    }
+}
